@@ -103,3 +103,7 @@ out/                   case-study outputs
 ## Tools
 
 Python 3.12, RDKit, pandas, NumPy, pytest.
+
+## License
+
+Code: MIT. Data in `data/` and derived outputs in `out/` come from ChEMBL and follow its licence (CC BY-SA 3.0); please attribute ChEMBL.
