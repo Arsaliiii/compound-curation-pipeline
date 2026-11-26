@@ -1,0 +1,59 @@
+original shape: (2204, 49)
+after column selection: (2204, 17)
+
+--- Standard Type ---
+Standard Type
+IC50    2204
+Name: count, dtype: int64
+
+--- Standard Units ---
+Standard Units
+nM         2156
+ug.mL-1      33
+NaN          15
+Name: count, dtype: int64
+
+--- Standard Relation ---
+Standard Relation
+'='     1792
+'>'      263
+'<'      117
+NaN       31
+'>='       1
+Name: count, dtype: int64
+
+--- Assay Type ---
+Assay Type
+B    2204
+Name: count, dtype: int64
+
+--- Target Name ---
+Target Name
+Cyclin-dependent kinase 4/cyclin D1    2204
+Name: count, dtype: int64
+
+--- Target Organism ---
+Target Organism
+Homo sapiens    2204
+Name: count, dtype: int64
+
+--- Data Validity Comment ---
+Data Validity Comment
+NaN                      2123
+Outside typical range      81
+Name: count, dtype: int64
+
+--- Potential Duplicate ---
+Potential Duplicate
+0    2135
+1      69
+Name: count, dtype: int64
+
+--- counts ---
+missing smiles: 5
+missing value: 31
+missing pChEMBL: 472
+duplicate IDs: 233
+duplicate SMILES: 237
+unique compounds: 1971
+salt/mixture SMILES: 47
